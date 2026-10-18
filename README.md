@@ -1,1 +1,1 @@
-Machine Learning Courseworks
+Machine Learning Coursework
